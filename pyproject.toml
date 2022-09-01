@@ -1,3 +1,6 @@
+[project]
+    name = "OC-pytest-buildkite"
+
 [tool.towncrier]
     package = "pytest_buildkite"
     package_dir = "app"
