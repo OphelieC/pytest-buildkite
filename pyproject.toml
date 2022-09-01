@@ -8,4 +8,4 @@
     filename = "NEWS.rst"
 
 [tool.setuptools]
-    packages = ["pytest_buildkite"]
+    packages = ["pytest-buildkite"]
