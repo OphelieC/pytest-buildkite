@@ -1,6 +1,6 @@
 [project]
     name = "OC-pytest-buildkite"
-    version=0.1
+    version="0.1"
 
 [tool.towncrier]
     package = "pytest_buildkite"
