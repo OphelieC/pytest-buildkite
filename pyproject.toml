@@ -2,3 +2,6 @@
     package = "pytest_buildkite"
     package_dir = "app"
     filename = "NEWS.rst"
+
+[tool.setuptools]
+    packages = ["pytest_buildkite"]
